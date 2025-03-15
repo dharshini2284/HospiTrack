@@ -46,6 +46,6 @@ npm start
 ## 📬 Contact
 For any queries or suggestions, feel free to reach out!
 - **GitHub:** [@dharshini2284](https://github.com/dharshini2284)
-- **Email:** [004dharshkumar@gmail.com](mailto:your-email@example.com)
+- **Email:** [004dharshkumar@gmail.com](mailto:004dharshkumar@gmail.com)
 
 
